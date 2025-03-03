@@ -2,6 +2,8 @@
 
 Travelgram é uma página web construída com **HTML** e **CSS**, que utiliza técnicas de **Flexbox** para a criação de um layout moderno. A página permite que usuários compartilhem fotos dos lugares que visitaram, criando um portfólio visual de viagens.
 
+![Descrição da imagem](assets/photoProject.png)
+
 ## Visão Geral
 
 A página inicial do Travelgram apresenta um perfil de usuário com uma breve biografia e detalhes sobre a quantidade de países visitados e fotos publicadas. Logo abaixo, há uma galeria de fotos dos destinos, organizada de forma atrativa e responsiva, exibindo imagens dos lugares visitados pelo usuário.
